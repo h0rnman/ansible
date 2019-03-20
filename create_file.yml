@@ -1,4 +1,4 @@
-- name: Create directory structure
+- name: Create directory structure2
   win_file:
     path: C:\temp\ansible
     state: directory
